@@ -28,6 +28,9 @@ using namespace std;
 string path = "/home";  //starting directory
 vector<string> files;	//will hold filenames to be viewed
 
+
+
+
 /* This function will copy a file.  It will take a file from teh current 
  * directory and copy it to a destination directory, keeping the same file 
  * name */
