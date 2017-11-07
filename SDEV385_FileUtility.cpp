@@ -29,7 +29,10 @@ using namespace std;
 string path = "/home";  //starting directory
 vector<string> files;	//will hold filenames to be viewed
 
-
+void testFunction()
+{
+	printf("This is just to give me something to push to github");
+}
 
 
 /* This function will copy a file.  It will take a file from teh current 
