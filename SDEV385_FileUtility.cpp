@@ -5,6 +5,7 @@
  * Written using Ubuntu 16.04.3 LTS
  * compiled using g++
  * e.g g++ JSterling_SDEV385_HW10.cpp -o JSHW10
+ * extra info for test update push
 */
 #include <stdio.h>
 #include <iostream>
@@ -27,6 +28,9 @@ using namespace std;
 
 string path = "/home";  //starting directory
 vector<string> files;	//will hold filenames to be viewed
+
+
+
 
 /* This function will copy a file.  It will take a file from teh current 
  * directory and copy it to a destination directory, keeping the same file 
